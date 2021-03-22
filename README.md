@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marimari111-code
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScrip
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on gmail.com
 - 📫 How to reach me marimarids111@
 
